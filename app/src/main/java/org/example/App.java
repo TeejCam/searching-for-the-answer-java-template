@@ -17,6 +17,8 @@ public class App {
 
         InvertedIndex index = new InvertedIndex();
 
+        System.out.println("Current working directory: " + System.getProperty("user.dir"));
+
         try{
             String fileContents = index.readFile(inputFile);
 

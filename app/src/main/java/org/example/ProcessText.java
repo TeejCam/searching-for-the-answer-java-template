@@ -56,6 +56,7 @@ public class ProcessText
         skipWords.add("yours");
         skipWords.add("his");
         skipWords.add("hers");
+        skipWords.add("it");
         skipWords.add("its");
         skipWords.add("itself");
         skipWords.add("their");
