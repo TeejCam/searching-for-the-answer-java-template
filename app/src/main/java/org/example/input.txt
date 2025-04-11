@@ -1,0 +1,7 @@
+I am writing a short paragraph to test out my inverted index program. 
+Fun fact! This is the first time im learning about inverted indexes. 
+It is a very interesting data structure, but it involves maps and lists,
+and hashmaps and stuff. So really nothing that I haven't seen before.
+I mixed in regular expressions into my code to deal with processing 
+text -- its a nice coincidence with my python class that is also on
+regular expressions right now. Apples apples Apples apples.
